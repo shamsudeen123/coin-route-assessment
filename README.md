@@ -18,7 +18,6 @@ To run this app locally, follow these steps:
 
 - Displays order-book data from an exchange, and displaying a few widgets with this data.
 - Utilizes React hooks for fetching and displaying data.
-- Includes a responsive side navigation menu.
 - Written using the latest version of React.
 - Built with modern web development best practices.
 
